@@ -2,7 +2,7 @@
 Dhio Hermansyah readme ini untuk memnuhi tugas web design
 
 ## Links 
-- [Figma](https://www.figma.com/design/c5I2f2L3vDTrI1NYM8qnOG/Portfolio--Community-?node-id=0-1&t=OeuOJpNpSFLPeeyH-1)
+- [Figma]https://www.figma.com/design/G8owxnaQcfYBG4de15lqcs/web-design-dhyo?node-id=2-17&t=iHVj00eF9JGXa5xU-0
 
 ## Social Media
 - [GitHub]https://github.com/Dhyoherman
